@@ -1,0 +1,29 @@
+Blonde;Frank Ocean;2016;4.15;R&B
+ASTROWORLD;Travis Scott;2018;3.44;Rap
+Whole Lotta Red;Playboi Carti;2020;3;Rap
+IGOR;Tyler, the Creator;2019;4;Rap
+Punisher;Phoebe Bridgers;2020;3;Indie Rock
+Piñata;Freddie Gibbs;2014;4;Rap
+Die Lit;Playboi Carti;2018;3;Rap
+After Hours;The Weeknd;2020;3;R&B
+Flower Boy;Tyler, the Creator;2017;3;Rap
+TYRON;slowthai;2021;3;Rap
+Sling;Clairo;2021;3;Indie Pop
+Atrocity Exhibition;Danny Brown;2016;4;Rap
+Melodrama;Lorde;2017;3;Indie Pop
+Ants From Up There;Black Country, New Road;2022;4;Post-Rock
+Helplessness Blues;Fleet Foxes;2011;3;Indie Folk
+Once Twice Melody;Beach House;2022;3;Dream Pop
+Loveless;my bloody valentine;1991;4;Shoegaze
+The College Dropout;Kanye West;2004;4;Rap
+AT.LONG.LAST.A$AP;A$AP Rocky;2015;3;Rap
+Immunity;Clairo;2021;3;Indie Pop
+Pure Heroine;Lorde;2013;3;Indie Pop
+Bandana;Freddie Gibbs;2019;3;Rap
+The Glow, Pt. 2;The Microphones;2001;4;Indie Rock
+ktos;cos;2011;5;rock
+dupa;dd;2015;6;rock
+dup;dd;2012;7;rock
+dups;dd22;2012;7;rock
+jakis;kooo;2011;8.22;rock
+test;testo;2011;4.55;rock

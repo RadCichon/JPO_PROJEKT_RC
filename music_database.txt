@@ -1,0 +1,29 @@
+Seigfried;3;R&B;Frank Ocean
+After Hours;3;Pop;The Weeknd
+SKELETONS;3;Rap;Travis Scott
+I Know the End;5;Indie Rock;Phoebe Bridgers
+Nights;4;R&B;Frank Ocean
+Savior Complex;3;Indie Rock;Phoebe Bridgers
+ILoveUIHateU;3;Rap;Playboi Carti
+Doin' Time;2;Pop;Lana Del Rey
+GONE, GONE / THANK YOU;6;Rap;Tyler, the Creator
+Chanel;3;R&B;Frank Ocean
+The Zone;5;R&B;The Weeknd
+Reborn;4;Rap;KIDS SEE GHOSTS
+Off the Grid;5;Rap;Kanye West
+Bags;3;Indie Pop;Clairo
+Buzzcut Season;3;Indie Pop;Lorde
+Sleep;4;Rap;The Roots
+Ghost Town;5;Rap;Kanye West
+XS;3;Pop;Rina Sawayama
+Sober II (Melodrama);3;Pop;Lorde
+Panic Emoji;3;Rap;JPEGMAFIA
+Shine;3;Rap;Danny Brown
+Rose Rouge;3;Soul;Jorja Smith
+sdp interlude;3;Rap;Travis Scott
+Nikes;3;R&B;Frank Ocean
+Crack Rock;3;R&B;Frank Ocean
+Flex;2;Rap;Playboi Carti
+Mariners Apartment Complex;3;Pop;Lana Del Rey
+Chinese Satellite;4;Indie Rock;Phoebe Bridgers
+California;4.22;Pop;Lana Del Rey
