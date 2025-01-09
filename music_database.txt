@@ -1,0 +1,41 @@
+Seigfried;5.34;R&B;Frank Ocean
+After Hours;6.02;Pop;The Weeknd
+SKELETONS;2.34;Rap;Travis Scott
+I Know the End;5.12;Indie;Phoebe Bridgers
+Nights;4.42;R&B;Frank Ocean
+Savior Complex;3.11;Indie;Phoebe Bridgers
+ILoveUIHateU;3.02;Rap;Playboi Carti
+Doin' Time;2.35;Pop;Lana Del Rey
+GONE, GONE / THANK YOU;6.06;Rap;Tyler, the Creator
+Chanel;3.51;R&B;Frank Ocean
+The Zone;5.13;R&B;The Weeknd
+Reborn;4.11;Rap;KIDS SEE GHOSTS
+Through the wire;2.03;Pop;Rina Sawayama
+Off the Grid;5.22;Rap;Kanye West
+Bags;3.03;Indie Pop;Clairo
+The Moon;3.55;Rock;The Microphones
+Buzzcut Season;3.41;Pop;Lorde
+Sleep;4.1;Rap;The Roots
+Bedouin Dress;4.29;Folk;Fleet Foxes
+Ghost Town;5.23;Rap;Kanye West
+XS;3.42;Pop;Rina Sawayama
+Sober II (Melodrama);3.34;Pop;Lorde
+Panic Emoji;3.12;Rap;JPEGMAFIA
+Bodys;6.46;Rock;Car Seat Headrest
+Shine;3.44;Rap;Danny Brown
+Rose Rouge;3.19;Soul;Jorja Smith
+sdp interlude;3.54;Rap;Travis Scott
+Nikes;3.59;R&B;Frank Ocean
+Crack Rock;3.57;R&B;Frank Ocean
+Fouth of July;4.39;Folk;Sufjan Stevens
+Flex;2.51;Rap;Playboi Carti
+Mariners Apartment Complex;3.41;Pop;Lana Del Rey
+Chinese Satellite;4.49;Indie;Phoebe Bridgers
+Hacker;3.54;Rap;Death Grips
+Joga;5.12;Pop;Bjork
+Dogs;17.05;Rock;Pink Floyd
+The Glowing Man;28.5;Rock;Swans
+Novacane;5.02;R&B;Frank Ocean
+Basketball Shoes;12.37;Rock;Black Country, New Road
+Know;2.24;Folk;Nick Drake
+Fouth of July;4.39;Folk;Sufjan Stevens
