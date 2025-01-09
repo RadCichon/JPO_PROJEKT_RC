@@ -1,0 +1,31 @@
+Drake;Canada;Rap
+The Weeknd;Canada;R&B
+Lana Del Rey;USA;Pop
+Tyler, the Creator;USA;Rap
+Slowdive;USA;Shoegaze
+Kendrick Lamar;USA;Rap
+Swans;USA;Rock
+Playboi Carti;USA;Rap
+Frank Ocean;USA;R&B
+JPEGMAFIA;USA;Rap
+Bjork;Iceland;Pop
+Earl Sweatshirt;USA;Rap
+Beach House;USA;Indie
+Future;USA;Rap
+Clairo;USA;Indie 
+Lorde;New Zealand;Pop
+Phoebe Bridgers;USA;Indie 
+Sufjan Stevens;USA;Folk
+Fleet Foxes;USA;Folk
+Danny Brown;USA;Rap
+Radiohead;UK;Rock
+slowthai;UK;Rap
+Injury Reserve;USA;Rap
+Charli XCX;UK;Pop
+Black Country, New Road;UK;Rock
+Kali Uchis;USA;R&B
+The Roots;USA;Rap
+Brent Faiyaz;USA;R&B
+The Microphones;USA;Folk
+FKA Twigs;UK;R&B
+SZA;USA;R&B

@@ -1,0 +1,36 @@
+Blonde;Frank Ocean;2016;4.18;R&B
+ASTROWORLD;Travis Scott;2018;3.59;Rap
+OK Computer;Radiohead;1997;4.27;Rock
+IGOR;Tyler, the Creator;2019;4.1;Rap
+Punisher;Phoebe Bridgers;2020;3.92;Indie 
+Piñata;Freddie Gibbs;2014;4.04;Rap
+In Rainbows;Radiohead;2007;4.2;Rock
+Die Lit;Playboi Carti;2018;3.41;Rap
+After Hours;The Weeknd;2020;3.67;R&B
+Flower Boy;Tyler, the Creator;2017;3.89;Rap
+TYRON;slowthai;2021;3.22;Rap
+Lift Yr. Skinny Fists Like Antennas to Heaven!;Godspeed You Black Emperor!;2000;4.23;Rock
+Sling;Clairo;2021;3.51;Indie
+Atrocity Exhibition;Danny Brown;2016;4.17;Rap
+Abbey Road;The Beatles;1969;4.02;Rock
+Melodrama;Lorde;2017;3.77;Pop
+Ants From Up There;Black Country, New Road;2022;4.06;Rock
+Take Care;Drake;2011;3.49;Rap
+Helplessness Blues;Fleet Foxes;2011;3.99;Folk
+Red;King Crimson;1974;4.15;Rock
+Once Twice Melody;Beach House;2022;3.62;Indie
+Loveless;my bloody valentine;1991;4.21;Shoegaze
+The College Dropout;Kanye West;2004;4.12;Rap
+Vespertine;Bjork;2001;4.14;Pop
+AT.LONG.LAST.A$AP;A$AP Rocky;2015;3.51;Rap
+Immunity;Clairo;2021;3.12;Indie 
+Pure Heroine;Lorde;2013;3.7;Pop
+Bandana;Freddie Gibbs;2019;3.82;Rap
+The Glow, Pt. 2;The Microphones;2001;4.22;Folk
+Pink Moon;Nick Drake;1972;4.16;Folk
+Spiderland;Slint;1991;4;Rock
+Magdalene;FKA Twigs;2019;3.79;Pop
+Bottomless Pit;Death Grips;2016;3.66;Rap
+Javelin;Sufjan Stevens;2023;3.88;Folk
+Bright Future;Adrianne Lenker;2024;3.68;Folk
+Imaginal Disk;Magdalena Bay;2024;3.99;Pop
